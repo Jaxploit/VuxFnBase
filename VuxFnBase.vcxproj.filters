@@ -40,21 +40,6 @@
     <ClInclude Include="game\informations\offsets\offsets.h">
       <Filter>game\informations\offsets</Filter>
     </ClInclude>
-    <ClInclude Include="game\includes\include.h">
-      <Filter>game\includes\Cheat Includes</Filter>
-    </ClInclude>
-    <ClInclude Include="game\includes\keybinds.h">
-      <Filter>game\includes\Cheat Includes</Filter>
-    </ClInclude>
-    <ClInclude Include="game\includes\utils.h">
-      <Filter>game\includes\Other</Filter>
-    </ClInclude>
-    <ClInclude Include="game\includes\xor.hpp">
-      <Filter>game\includes\Other</Filter>
-    </ClInclude>
-    <ClInclude Include="game\includes\lazy.h">
-      <Filter>game\includes\Other</Filter>
-    </ClInclude>
     <ClInclude Include="driver\driver.h">
       <Filter>driver</Filter>
     </ClInclude>
@@ -128,6 +113,21 @@
     <ClInclude Include="D3DX\d3dx9mesh.h">
       <Filter>D3DX</Filter>
     </ClInclude>
+    <ClInclude Include="game\includes\include.h">
+      <Filter>game\includes</Filter>
+    </ClInclude>
+    <ClInclude Include="game\includes\keybinds.h">
+      <Filter>game\includes</Filter>
+    </ClInclude>
+    <ClInclude Include="game\includes\xor.hpp">
+      <Filter>game\includes</Filter>
+    </ClInclude>
+    <ClInclude Include="game\includes\utils.h">
+      <Filter>game\includes</Filter>
+    </ClInclude>
+    <ClInclude Include="game\includes\lazy.h">
+      <Filter>game\includes</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="driver">
@@ -153,12 +153,6 @@
     </Filter>
     <Filter Include="game\includes">
       <UniqueIdentifier>{9b81e46a-d5fc-4566-9149-93f1940f1b66}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="game\includes\Cheat Includes">
-      <UniqueIdentifier>{eceaacb2-129b-4f73-95dd-c61794130792}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="game\includes\Other">
-      <UniqueIdentifier>{a97fb4a3-2740-49db-9979-314de92b3ffa}</UniqueIdentifier>
     </Filter>
     <Filter Include="game\features\overlay">
       <UniqueIdentifier>{ec3f8c0b-275d-4add-8416-19f0d2b1696c}</UniqueIdentifier>
